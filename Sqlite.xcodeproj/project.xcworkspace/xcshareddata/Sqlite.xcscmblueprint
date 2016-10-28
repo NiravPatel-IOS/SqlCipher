@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d11d839a-f39d-ee46-b6c1-106e71bea92f++3695" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d11d839a-f39d-ee46-b6c1-106e71bea92f++3695" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E31EDAE1-FE72-4984-BCF7-668261D828BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d11d839a-f39d-ee46-b6c1-106e71bea92f++3695" : "Sqlite\/Sqlite\/Database\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sqlite",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sqlite.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/54.234.176.119\/svn\/IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d11d839a-f39d-ee46-b6c1-106e71bea92f++3695"
+    }
+  ]
+}
